@@ -30,8 +30,6 @@ The [Blickfeld GmbH](https://www.blickfeld.com/) develops low-cost MEMS LiDARs
 ## Education
 **ETH Zurich, Zurich — MSc. Information Technology & Electrical Engineering (_September 2019 - June 2023_)**
 
-Courses: Machine Learning on Microcontrollers ([github](https://github.com/benjin711/MLoMCFinalProject)) (C, Python, TensorFlow Lite) | Advanced Machine Learning (Python, Pytorch) | Deep Learning for Autonomous Driving (Python, Pytorch, AWS) | 3D Vision ([github](https://github.com/ctyfang/amz-targetless-cal)) (Python) | Fundamentals of Mathematical Statistics | Game Theory for Control | etc.
+Courses: Machine Learning on Microcontrollers ([github](https://github.com/benjin711/MLoMCFinalProject)) (C, Python, TensorFlow Lite), Advanced Machine Learning (Python, Pytorch), Deep Learning for Autonomous Driving (Python, Pytorch, AWS), 3D Vision ([github](https://github.com/ctyfang/amz-targetless-cal)) (Python), Fundamentals of Mathematical Statistics, Game Theory for Control, etc.
 
 **Technical University of Munich, Munich — BSc. Electrical Engineering & Information Technology (_September 2016 - August 2019_)**
-
-- Project: At [Roboy](https://roboy.org/) - developed sensory robotic skin based on silicon waveguides.
